@@ -35,6 +35,6 @@ def sample_images(imgs, epoch, path):
             axs[i, j].imshow(imgs[cnt, :, :, 0], cmap='gray')
             axs[i, j].axis('off')
             cnt += 1
-    fig.savefig("images/%d.png" % epoch)
+    # fig.savefig("images/%d.png" % epoch)
     fig.savefig('{}\\{}.png'.format(path, epoch))
     plt.close()
