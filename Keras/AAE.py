@@ -67,7 +67,7 @@ class AAE:
     def train_on_batch(self, x, latent_distribution_real_data):
 
         if len(x) != len(latent_distribution_real_data):
-            raise ValueError('x and z must have the same batch size')
+            raise ValueError('x and latent_distribution_real_data must have the same batch size')
 
         # Train the discriminator
 
@@ -80,6 +80,7 @@ class AAE:
         d_loss = 0.5 * (d_real_loss + d_generated_loss)
 
         # Train the aae
+        
         g_loss = self._aae.train_on_batch(x, [x, np.ones(len(x))])
 
         return d_loss, g_loss
@@ -100,10 +101,6 @@ class AAE:
 
             reconstructed_data = 0.5 * self._autoencoder.predict(x_current_batch[:25]) + 0.5
             sample_images(reconstructed_data, epoch, 'images')
-
-            encoded_test = self._encoder.predict(x_test.reshape((10000, 28, 28) + (1,)))
-
-            self._encoder.predict(x_test.reshape((10000, 28, 28) + (1,)))
 
             # Plot 2d latent
             fig = plt.figure()
