@@ -4,6 +4,106 @@
     <list default="true" id="331e81f6-8f51-43d2-a578-b45c8cd086a9" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Keras/AAE.py" beforeDir="false" afterPath="$PROJECT_DIR$/Keras/AAE.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Keras/images/1.png" beforeDir="false" afterPath="$PROJECT_DIR$/Keras/images/1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Keras/images/10.png" beforeDir="false" afterPath="$PROJECT_DIR$/Keras/images/10.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Keras/images/10_latent.png" beforeDir="false" afterPath="$PROJECT_DIR$/Keras/images/10_latent.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Keras/images/11.png" beforeDir="false" afterPath="$PROJECT_DIR$/Keras/images/11.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Keras/images/11_latent.png" beforeDir="false" afterPath="$PROJECT_DIR$/Keras/images/11_latent.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Keras/images/12.png" beforeDir="false" afterPath="$PROJECT_DIR$/Keras/images/12.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Keras/images/12_latent.png" beforeDir="false" afterPath="$PROJECT_DIR$/Keras/images/12_latent.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Keras/images/13.png" beforeDir="false" afterPath="$PROJECT_DIR$/Keras/images/13.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Keras/images/13_latent.png" beforeDir="false" afterPath="$PROJECT_DIR$/Keras/images/13_latent.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Keras/images/14.png" beforeDir="false" afterPath="$PROJECT_DIR$/Keras/images/14.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Keras/images/14_latent.png" beforeDir="false" afterPath="$PROJECT_DIR$/Keras/images/14_latent.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Keras/images/15.png" beforeDir="false" afterPath="$PROJECT_DIR$/Keras/images/15.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Keras/images/15_latent.png" beforeDir="false" afterPath="$PROJECT_DIR$/Keras/images/15_latent.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Keras/images/16.png" beforeDir="false" afterPath="$PROJECT_DIR$/Keras/images/16.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Keras/images/16_latent.png" beforeDir="false" afterPath="$PROJECT_DIR$/Keras/images/16_latent.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Keras/images/17.png" beforeDir="false" afterPath="$PROJECT_DIR$/Keras/images/17.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Keras/images/17_latent.png" beforeDir="false" afterPath="$PROJECT_DIR$/Keras/images/17_latent.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Keras/images/18.png" beforeDir="false" afterPath="$PROJECT_DIR$/Keras/images/18.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Keras/images/18_latent.png" beforeDir="false" afterPath="$PROJECT_DIR$/Keras/images/18_latent.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Keras/images/19.png" beforeDir="false" afterPath="$PROJECT_DIR$/Keras/images/19.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Keras/images/19_latent.png" beforeDir="false" afterPath="$PROJECT_DIR$/Keras/images/19_latent.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Keras/images/1_latent.png" beforeDir="false" afterPath="$PROJECT_DIR$/Keras/images/1_latent.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Keras/images/2.png" beforeDir="false" afterPath="$PROJECT_DIR$/Keras/images/2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Keras/images/20.png" beforeDir="false" afterPath="$PROJECT_DIR$/Keras/images/20.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Keras/images/20_latent.png" beforeDir="false" afterPath="$PROJECT_DIR$/Keras/images/20_latent.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Keras/images/21.png" beforeDir="false" afterPath="$PROJECT_DIR$/Keras/images/21.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Keras/images/21_latent.png" beforeDir="false" afterPath="$PROJECT_DIR$/Keras/images/21_latent.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Keras/images/22.png" beforeDir="false" afterPath="$PROJECT_DIR$/Keras/images/22.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Keras/images/22_latent.png" beforeDir="false" afterPath="$PROJECT_DIR$/Keras/images/22_latent.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Keras/images/23.png" beforeDir="false" afterPath="$PROJECT_DIR$/Keras/images/23.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Keras/images/23_latent.png" beforeDir="false" afterPath="$PROJECT_DIR$/Keras/images/23_latent.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Keras/images/24.png" beforeDir="false" afterPath="$PROJECT_DIR$/Keras/images/24.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Keras/images/24_latent.png" beforeDir="false" afterPath="$PROJECT_DIR$/Keras/images/24_latent.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Keras/images/25.png" beforeDir="false" afterPath="$PROJECT_DIR$/Keras/images/25.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Keras/images/25_latent.png" beforeDir="false" afterPath="$PROJECT_DIR$/Keras/images/25_latent.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Keras/images/26.png" beforeDir="false" afterPath="$PROJECT_DIR$/Keras/images/26.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Keras/images/26_latent.png" beforeDir="false" afterPath="$PROJECT_DIR$/Keras/images/26_latent.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Keras/images/27.png" beforeDir="false" afterPath="$PROJECT_DIR$/Keras/images/27.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Keras/images/27_latent.png" beforeDir="false" afterPath="$PROJECT_DIR$/Keras/images/27_latent.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Keras/images/28.png" beforeDir="false" afterPath="$PROJECT_DIR$/Keras/images/28.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Keras/images/28_latent.png" beforeDir="false" afterPath="$PROJECT_DIR$/Keras/images/28_latent.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Keras/images/29.png" beforeDir="false" afterPath="$PROJECT_DIR$/Keras/images/29.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Keras/images/29_latent.png" beforeDir="false" afterPath="$PROJECT_DIR$/Keras/images/29_latent.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Keras/images/2_latent.png" beforeDir="false" afterPath="$PROJECT_DIR$/Keras/images/2_latent.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Keras/images/3.png" beforeDir="false" afterPath="$PROJECT_DIR$/Keras/images/3.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Keras/images/30.png" beforeDir="false" afterPath="$PROJECT_DIR$/Keras/images/30.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Keras/images/30_latent.png" beforeDir="false" afterPath="$PROJECT_DIR$/Keras/images/30_latent.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Keras/images/31.png" beforeDir="false" afterPath="$PROJECT_DIR$/Keras/images/31.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Keras/images/31_latent.png" beforeDir="false" afterPath="$PROJECT_DIR$/Keras/images/31_latent.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Keras/images/32.png" beforeDir="false" afterPath="$PROJECT_DIR$/Keras/images/32.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Keras/images/32_latent.png" beforeDir="false" afterPath="$PROJECT_DIR$/Keras/images/32_latent.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Keras/images/33.png" beforeDir="false" afterPath="$PROJECT_DIR$/Keras/images/33.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Keras/images/33_latent.png" beforeDir="false" afterPath="$PROJECT_DIR$/Keras/images/33_latent.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Keras/images/34.png" beforeDir="false" afterPath="$PROJECT_DIR$/Keras/images/34.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Keras/images/34_latent.png" beforeDir="false" afterPath="$PROJECT_DIR$/Keras/images/34_latent.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Keras/images/35.png" beforeDir="false" afterPath="$PROJECT_DIR$/Keras/images/35.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Keras/images/35_latent.png" beforeDir="false" afterPath="$PROJECT_DIR$/Keras/images/35_latent.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Keras/images/36.png" beforeDir="false" afterPath="$PROJECT_DIR$/Keras/images/36.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Keras/images/36_latent.png" beforeDir="false" afterPath="$PROJECT_DIR$/Keras/images/36_latent.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Keras/images/37.png" beforeDir="false" afterPath="$PROJECT_DIR$/Keras/images/37.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Keras/images/37_latent.png" beforeDir="false" afterPath="$PROJECT_DIR$/Keras/images/37_latent.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Keras/images/38.png" beforeDir="false" afterPath="$PROJECT_DIR$/Keras/images/38.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Keras/images/38_latent.png" beforeDir="false" afterPath="$PROJECT_DIR$/Keras/images/38_latent.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Keras/images/39.png" beforeDir="false" afterPath="$PROJECT_DIR$/Keras/images/39.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Keras/images/39_latent.png" beforeDir="false" afterPath="$PROJECT_DIR$/Keras/images/39_latent.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Keras/images/3_latent.png" beforeDir="false" afterPath="$PROJECT_DIR$/Keras/images/3_latent.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Keras/images/4.png" beforeDir="false" afterPath="$PROJECT_DIR$/Keras/images/4.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Keras/images/40.png" beforeDir="false" afterPath="$PROJECT_DIR$/Keras/images/40.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Keras/images/40_latent.png" beforeDir="false" afterPath="$PROJECT_DIR$/Keras/images/40_latent.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Keras/images/41.png" beforeDir="false" afterPath="$PROJECT_DIR$/Keras/images/41.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Keras/images/41_latent.png" beforeDir="false" afterPath="$PROJECT_DIR$/Keras/images/41_latent.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Keras/images/42.png" beforeDir="false" afterPath="$PROJECT_DIR$/Keras/images/42.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Keras/images/42_latent.png" beforeDir="false" afterPath="$PROJECT_DIR$/Keras/images/42_latent.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Keras/images/43.png" beforeDir="false" afterPath="$PROJECT_DIR$/Keras/images/43.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Keras/images/43_latent.png" beforeDir="false" afterPath="$PROJECT_DIR$/Keras/images/43_latent.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Keras/images/44.png" beforeDir="false" afterPath="$PROJECT_DIR$/Keras/images/44.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Keras/images/44_latent.png" beforeDir="false" afterPath="$PROJECT_DIR$/Keras/images/44_latent.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Keras/images/45.png" beforeDir="false" afterPath="$PROJECT_DIR$/Keras/images/45.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Keras/images/45_latent.png" beforeDir="false" afterPath="$PROJECT_DIR$/Keras/images/45_latent.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Keras/images/46.png" beforeDir="false" afterPath="$PROJECT_DIR$/Keras/images/46.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Keras/images/46_latent.png" beforeDir="false" afterPath="$PROJECT_DIR$/Keras/images/46_latent.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Keras/images/47.png" beforeDir="false" afterPath="$PROJECT_DIR$/Keras/images/47.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Keras/images/47_latent.png" beforeDir="false" afterPath="$PROJECT_DIR$/Keras/images/47_latent.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Keras/images/48.png" beforeDir="false" afterPath="$PROJECT_DIR$/Keras/images/48.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Keras/images/48_latent.png" beforeDir="false" afterPath="$PROJECT_DIR$/Keras/images/48_latent.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Keras/images/49.png" beforeDir="false" afterPath="$PROJECT_DIR$/Keras/images/49.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Keras/images/49_latent.png" beforeDir="false" afterPath="$PROJECT_DIR$/Keras/images/49_latent.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Keras/images/4_latent.png" beforeDir="false" afterPath="$PROJECT_DIR$/Keras/images/4_latent.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Keras/images/5.png" beforeDir="false" afterPath="$PROJECT_DIR$/Keras/images/5.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Keras/images/50.png" beforeDir="false" afterPath="$PROJECT_DIR$/Keras/images/50.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Keras/images/50_latent.png" beforeDir="false" afterPath="$PROJECT_DIR$/Keras/images/50_latent.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Keras/images/5_latent.png" beforeDir="false" afterPath="$PROJECT_DIR$/Keras/images/5_latent.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Keras/images/6.png" beforeDir="false" afterPath="$PROJECT_DIR$/Keras/images/6.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Keras/images/6_latent.png" beforeDir="false" afterPath="$PROJECT_DIR$/Keras/images/6_latent.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Keras/images/7.png" beforeDir="false" afterPath="$PROJECT_DIR$/Keras/images/7.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Keras/images/7_latent.png" beforeDir="false" afterPath="$PROJECT_DIR$/Keras/images/7_latent.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Keras/images/8.png" beforeDir="false" afterPath="$PROJECT_DIR$/Keras/images/8.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Keras/images/8_latent.png" beforeDir="false" afterPath="$PROJECT_DIR$/Keras/images/8_latent.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Keras/images/9.png" beforeDir="false" afterPath="$PROJECT_DIR$/Keras/images/9.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Keras/images/9_latent.png" beforeDir="false" afterPath="$PROJECT_DIR$/Keras/images/9_latent.png" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -15,31 +115,33 @@
     <session id="104139533">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="3" />
-          <entry key="project.open.time.0" value="3" />
+          <entry key="project.closed" value="8" />
+          <entry key="project.open.time.0" value="5" />
+          <entry key="project.open.time.10" value="1" />
+          <entry key="project.open.time.4" value="2" />
           <entry key="project.open.time.6" value="1" />
-          <entry key="project.opened" value="4" />
+          <entry key="project.opened" value="9" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="py" value="16" />
+          <entry key="py" value="17" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Python" value="16" />
+          <entry key="Python" value="17" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="Python Console" value="35" />
-          <entry key="py" value="5902" />
+          <entry key="Python Console" value="432" />
+          <entry key="py" value="6482" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Python" value="5937" />
+          <entry key="Python" value="6914" />
         </counts>
       </usages-collector>
     </session>
@@ -49,7 +151,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Keras/GAN.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="772">
+            <state relative-caret-position="850">
               <caret line="56" column="43" selection-start-line="56" selection-start-column="30" selection-end-line="56" selection-end-column="43" />
               <folding>
                 <element signature="e#0#18#0" expanded="true" />
@@ -61,25 +163,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Keras/DCGAN.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="27" column="8" selection-start-line="27" selection-start-column="8" selection-end-line="29" selection-end-column="35" />
-              <folding>
-                <element signature="e#0#18#0" expanded="true" />
-                <marker date="1549878776075" expanded="true" signature="433:434" ph="..." />
-                <marker date="1549878776075" expanded="true" signature="433:439" ph="..." />
-                <marker date="1549878776075" expanded="true" signature="1547:2141" ph="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/utils.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="184">
-              <caret line="31" column="11" lean-forward="true" selection-start-line="31" selection-start-column="11" selection-end-line="31" selection-end-column="11" />
+            <state relative-caret-position="510">
+              <caret line="31" column="11" selection-start-line="31" selection-start-column="11" selection-end-line="31" selection-end-column="11" />
               <folding>
                 <element signature="e#0#18#0" expanded="true" />
               </folding>
@@ -90,11 +177,20 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Keras/AAE.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="445">
-              <caret line="82" column="8" selection-start-line="82" selection-start-column="8" selection-end-line="82" selection-end-column="8" />
+            <state relative-caret-position="241">
+              <caret line="135" column="43" lean-forward="true" selection-start-line="135" selection-start-column="43" selection-end-line="135" selection-end-column="43" />
               <folding>
                 <element signature="e#0#18#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/Anaconda3/Lib/site-packages/keras/datasets/mnist.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="374">
+              <caret line="27" column="47" selection-start-line="27" selection-start-column="11" selection-end-line="27" selection-end-column="47" />
             </state>
           </provider>
         </entry>
@@ -113,6 +209,8 @@
       <find>assert</find>
       <find>raise</find>
       <find>(28,</find>
+      <find>la</find>
+      <find>2</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -484,6 +582,31 @@ print(data.shape)</expression-string>
     </expressions>
     <expressions id="evaluateExpression">
       <expression>
+        <expression-string>plt.scatter(swiss_roll_data[:, 0], swiss_roll_data[:, 1])</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>self._aae.predict(x)[1]</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>self._aae.predict(x)</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>self._aae</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>latent_distribution_real_data</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
         <expression-string>self._discriminator.predict(self._encoder.predict(x))</expression-string>
         <language-id>Python</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
@@ -494,37 +617,12 @@ print(data.shape)</expression-string>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
       <expression>
-        <expression-string>latent_distribution_real_data</expression-string>
-        <language-id>Python</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-      <expression>
         <expression-string>self._encoder.predict(x)</expression-string>
         <language-id>Python</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
       <expression>
         <expression-string>data</expression-string>
-        <language-id>Python</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>latent</expression-string>
-        <language-id>Python</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>fig.savefig('{}\\{}_latent.png'.format('images', epoch))</expression-string>
-        <language-id>Python</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>fig.legend()</expression-string>
-        <language-id>Python</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>axs.legend()</expression-string>
         <language-id>Python</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
@@ -553,9 +651,16 @@ print(data.shape)</expression-string>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Keras/CycleGAN.py" />
+    <entry file="file://$USER_HOME$/Anaconda3/Lib/site-packages/numpy/lib/shape_base.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-56">
+          <caret line="479" column="4" selection-start-line="479" selection-start-column="4" selection-end-line="479" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Keras/DCGAN.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
+        <state relative-caret-position="459">
           <caret line="27" column="8" selection-start-line="27" selection-start-column="8" selection-end-line="29" selection-end-column="35" />
           <folding>
             <element signature="e#0#18#0" expanded="true" />
@@ -566,16 +671,9 @@ print(data.shape)</expression-string>
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/Anaconda3/Lib/site-packages/numpy/lib/shape_base.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-56">
-          <caret line="479" column="4" selection-start-line="479" selection-start-column="4" selection-end-line="479" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Keras/GAN.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="772">
+        <state relative-caret-position="850">
           <caret line="56" column="43" selection-start-line="56" selection-start-column="30" selection-end-line="56" selection-end-column="43" />
           <folding>
             <element signature="e#0#18#0" expanded="true" />
@@ -587,18 +685,25 @@ print(data.shape)</expression-string>
     </entry>
     <entry file="file://$PROJECT_DIR$/utils.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="184">
-          <caret line="31" column="11" lean-forward="true" selection-start-line="31" selection-start-column="11" selection-end-line="31" selection-end-column="11" />
+        <state relative-caret-position="510">
+          <caret line="31" column="11" selection-start-line="31" selection-start-column="11" selection-end-line="31" selection-end-column="11" />
           <folding>
             <element signature="e#0#18#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
+    <entry file="file://$USER_HOME$/Anaconda3/Lib/site-packages/keras/datasets/mnist.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="27" column="47" selection-start-line="27" selection-start-column="11" selection-end-line="27" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Keras/AAE.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="445">
-          <caret line="82" column="8" selection-start-line="82" selection-start-column="8" selection-end-line="82" selection-end-column="8" />
+        <state relative-caret-position="241">
+          <caret line="135" column="43" lean-forward="true" selection-start-line="135" selection-start-column="43" selection-end-line="135" selection-end-column="43" />
           <folding>
             <element signature="e#0#18#0" expanded="true" />
           </folding>
