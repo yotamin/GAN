@@ -73,6 +73,7 @@ class DCGAN:
 
         # -----------------------
         # Train the discriminator
+        # -----------------------
 
         # Train the discriminator to mark real data with 1's
         d_real_loss = self._discriminator.train_on_batch(x, np.ones(len(x)))
@@ -84,6 +85,8 @@ class DCGAN:
 
         # -----------------------
         # Train the generator
+        # -----------------------
+
         g_loss = self._combined_model.train_on_batch(z, np.ones(len(z)))
 
         return d_loss, g_loss
