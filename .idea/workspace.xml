@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="331e81f6-8f51-43d2-a578-b45c8cd086a9" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Keras/SRGAN.py" beforeDir="false" afterPath="$PROJECT_DIR$/Keras/SRGAN.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -14,66 +15,57 @@
     <session id="104139533">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="16" />
-          <entry key="project.open.time.0" value="9" />
+          <entry key="project.closed" value="24" />
+          <entry key="project.open.time.0" value="13" />
+          <entry key="project.open.time.1" value="1" />
           <entry key="project.open.time.10" value="1" />
           <entry key="project.open.time.27" value="1" />
-          <entry key="project.open.time.4" value="2" />
+          <entry key="project.open.time.3" value="1" />
+          <entry key="project.open.time.4" value="3" />
           <entry key="project.open.time.5" value="2" />
           <entry key="project.open.time.6" value="1" />
+          <entry key="project.open.time.7" value="1" />
           <entry key="project.open.time.9" value="1" />
-          <entry key="project.opened" value="17" />
+          <entry key="project.opened" value="25" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="png" value="2" />
-          <entry key="py" value="33" />
+          <entry key="jpg" value="2" />
+          <entry key="png" value="8" />
+          <entry key="py" value="46" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Image" value="2" />
-          <entry key="Python" value="33" />
+          <entry key="Image" value="10" />
+          <entry key="Python" value="46" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="Python Console" value="449" />
-          <entry key="py" value="12392" />
+          <entry key="py" value="16139" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Python" value="12841" />
+          <entry key="Python" value="16588" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Tensorflow/BEGAN.py">
+        <entry file="file://$PROJECT_DIR$/Keras/Pix2Pix.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="156">
-              <caret line="157" selection-start-line="157" selection-end-line="157" />
+            <state relative-caret-position="204">
+              <caret line="12" selection-start-line="12" selection-end-line="12" />
               <folding>
-                <element signature="e#0#18#0" expanded="true" />
-                <element signature="e#3700#4989#0" />
-                <marker date="1551184471447" expanded="true" signature="158:164" ph="..." />
-                <marker date="1551184471447" expanded="true" signature="3383:3385" ph="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/utils.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="289">
-              <caret line="23" column="61" lean-forward="true" selection-start-line="23" selection-start-column="12" selection-end-line="23" selection-end-column="61" />
-              <folding>
-                <element signature="e#0#18#0" expanded="true" />
+                <element signature="e#0#10#0" expanded="true" />
+                <marker date="1551823917334" expanded="true" signature="3856:4106" ph="..." />
+                <marker date="1551823917334" expanded="true" signature="5126:5428" ph="..." />
               </folding>
             </state>
           </provider>
@@ -97,6 +89,10 @@
       <find>2</find>
       <find>fit</find>
       <find>summ</find>
+      <find>winname</find>
+      <find>fak</find>
+      <find>hr</find>
+      <find>lr</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -110,9 +106,11 @@
         <option value="$PROJECT_DIR$/Keras/GAN.py" />
         <option value="$PROJECT_DIR$/Keras/DCGAN.py" />
         <option value="$PROJECT_DIR$/tempp.py" />
-        <option value="$PROJECT_DIR$/Keras/SRGAN.py" />
         <option value="$PROJECT_DIR$/Keras/AAE.py" />
         <option value="$PROJECT_DIR$/Tensorflow/BEGAN.py" />
+        <option value="$PROJECT_DIR$/Keras/SRGAN.py" />
+        <option value="$PROJECT_DIR$/Keras/Pix2Pix_VGG.py" />
+        <option value="$PROJECT_DIR$/Keras/Pix2Pix.py" />
       </list>
     </option>
   </component>
@@ -154,6 +152,11 @@
               <item name="GAN" type="462c0819:PsiDirectoryNode" />
               <item name="Keras" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="GAN" type="b2602c69:ProjectViewProjectNode" />
+              <item name="GAN" type="462c0819:PsiDirectoryNode" />
+              <item name="Tensorflow" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -176,7 +179,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.BEGAN">
+  <component name="RunManager" selected="Python.Pix2Pix">
     <configuration name="AAE" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="GAN" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -219,7 +222,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="DCGAN" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Pix2Pix" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="GAN" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -231,7 +234,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Keras/DCGAN.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Keras/Pix2Pix.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -283,19 +286,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.DCGAN" />
       <item itemvalue="Python.AAE" />
       <item itemvalue="Python.SRGAN" />
       <item itemvalue="Python.tempp" />
       <item itemvalue="Python.BEGAN" />
+      <item itemvalue="Python.Pix2Pix" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Pix2Pix" />
         <item itemvalue="Python.BEGAN" />
         <item itemvalue="Python.SRGAN" />
         <item itemvalue="Python.tempp" />
         <item itemvalue="Python.AAE" />
-        <item itemvalue="Python.DCGAN" />
       </list>
     </recent_temporary>
   </component>
@@ -325,12 +328,12 @@
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24983476" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24983476" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3286119" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.34560907" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.28470254" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.305949" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -380,193 +383,122 @@
   <component name="debuggerHistoryManager">
     <expressions id="evaluateCodeFragment">
       <expression>
-        <expression-string>latent</expression-string>
+        <expression-string>im = images[0]
+cv2.imshow('im', im)
+cv2.waitKey()
+cv2.destroyAllWindows()</expression-string>
         <language-id>Python</language-id>
         <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
       </expression>
       <expression>
-        <expression-string>reconstructed_datal</expression-string>
+        <expression-string>im = abstract_images[0]
+cv2.imshow('im', im)
+cv2.waitKey()
+cv2.destroyAllWindows()</expression-string>
         <language-id>Python</language-id>
         <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
       </expression>
       <expression>
-        <expression-string># fig, axs = plt.subplots(1, 1)
-plt.close()
-fig = plt.figure()
-ax = fig.add_subplot(1, 1, 1)
-colors = ['blue', 'red', 'green', 'yellow', 'black', 'purple', 'orange', 'brown', 'grey', 'pink']
-for i, c in zip(range(10), colors):
-    data = x_test[y_test==i]
-    data = self._encoder.predict(data.reshape((len(data), 28, 28) + (1,)))
-    ax.scatter(data[:, 0], data[:, 1], c=c, label=str(i))
-# axs.grid(True)
-ax.legend(numpoints=10)
-fig.savefig('{}\\{}_latent.png'.format('images', epoch))</expression-string>
+        <expression-string>im = full_images[0]
+cv2.imshow('im', im)
+cv2.waitKey()
+cv2.destroyAllWindows()</expression-string>
         <language-id>Python</language-id>
         <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
       </expression>
       <expression>
-        <expression-string># fig, axs = plt.subplots(1, 1)
-plt.close()
-fig = plt.figure()
-ax = fig.add_subplot(1, 1, 1)
-colors = ['blue', 'red', 'green', 'yellow', 'black', 'purple', 'orange', 'brown', 'grey', 'pink']
-for i, c in zip(range(10), colors):
-    data = x_test[y_test==i]
-    data = self._encoder.predict(data.reshape((len(data), 28, 28) + (1,)))
-    ax.scatter(data[:, 0], data[:, 1], c=c, label=str(i))
-# axs.grid(True)
-ax.legend(numpoints=10)
+        <expression-string>plt.imshow((1.+full_images[0])*127.5)
 plt.show()</expression-string>
         <language-id>Python</language-id>
         <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
       </expression>
       <expression>
-        <expression-string># fig, axs = plt.subplots(1, 1)
-plt.close()
-fig = plt.figure()
-ax = fig.add_subplot(1, 1, 1)
-colors = ['blue', 'red', 'green', 'yellow', 'black', 'purple', 'orange', 'brown', 'grey', 'pink']
-for i, c in zip(range(10), colors):
-    data = x_test[y_test==i]
-    data = self._encoder.predict(data.reshape((len(data), 28, 28) + (1,)))
-    ax.scatter(data[:, 0], data[:, 1], c=c)
-# axs.grid(True)
-ax.legend(numpoints=10)
-plt.show()
-print(data.shape)</expression-string>
+        <expression-string>plt.imshow((1+full_images[0])*127.5)
+plt.show()</expression-string>
         <language-id>Python</language-id>
         <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
       </expression>
       <expression>
-        <expression-string># fig, axs = plt.subplots(1, 1)
-plt.close()
-fig = plt.figure()
-ax = fig.add_subplot(1, 1, 1)
-colors = ['blue', 'red', 'green', 'yellow', 'black', 'purple', 'orange', 'brown', 'grey', 'pink']
-for i, c in zip(range(10), colors):
-    data = x_test[y_test==i]
-    data = self._encoder.predict(data.reshape((len(data), 28, 28) + (1,)))
-    ax.scatter(data[:, 0], data[:, 1], c=c)
-# axs.grid(True)
-plt.legend(numpoints=10)
-plt.show()
-print(data.shape)</expression-string>
+        <expression-string>plt.imshow(abstract_images[0])
+plt.show()</expression-string>
         <language-id>Python</language-id>
         <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
       </expression>
       <expression>
-        <expression-string># fig, axs = plt.subplots(1, 1)
-plt.close()
-fig = plt.figure()
-ax = fig.add_subplot(1, 1, 1)
-colors = ['blue', 'red', 'green', 'yellow', 'black', 'purple', 'orange', 'brown', 'grey', 'pink']
-for i, c in zip(range(10), colors):
-    data = x_test[y_test==i]
-    data = self._encoder.predict(data.reshape((len(data), 28, 28) + (1,)))
-    ax.scatter(data[:, 0], data[:, 1], c='blue')
-# axs.grid(True)
-plt.legend(numpoints=10)
-plt.show()
-print(data.shape)</expression-string>
+        <expression-string>plt.imshow(full_images[0])
+plt.show()</expression-string>
         <language-id>Python</language-id>
         <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
       </expression>
       <expression>
-        <expression-string># fig, axs = plt.subplots(1, 1)
-plt.close()
-fig = plt.figure()
-ax = fig.add_subplot(1, 1, 1)
-colors = [x * 25 for x in y_test]
-for i, c in zip(range(10), colors):
-    data = x_test[y_test==i]
-    data = self._encoder.predict(data.reshape((len(data), 28, 28) + (1,)))
-    ax.scatter(data[:, 0], data[:, 1], c='blue')
-# axs.grid(True)
-plt.legend(numpoints=10)
-plt.show()
-print(data.shape)</expression-string>
+        <expression-string>cv2.imshow('abstract_images', images[0,:, :256, :])
+cv2.waitKey()
+cv2.destroyAllWindows()
+print(images[0,:, :256, :].shape)
+print(abstract_images[0].shape)</expression-string>
         <language-id>Python</language-id>
         <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
       </expression>
       <expression>
-        <expression-string># fig, axs = plt.subplots(1, 1)
-plt.close()
-fig = plt.figure()
-ax = fig.add_subplot(1, 1, 1)
-colors = [x * 25 for x in y_test]
-for i, c in zip(range(10), colors):
-    data = x_test[y_test==i]
-    data = self._encoder.predict(data.reshape((len(data), 28, 28) + (1,)))
-    ax.scatter(data[:, 0], data[:, 1], c=np.array([color for color in colors if color == i]))
-# axs.grid(True)
-plt.legend(numpoints=10)
-plt.show()
-print(data.shape)</expression-string>
+        <expression-string>cv2.imshow('abstract_images', images[0,:, :256, :])
+cv2.waitKey()
+cv2.destroyAllWindows()
+print(images[0,:, :256, :].shape)</expression-string>
         <language-id>Python</language-id>
         <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
       </expression>
       <expression>
-        <expression-string># fig, axs = plt.subplots(1, 1)
-plt.close()
-fig = plt.figure()
-ax = fig.add_subplot(1, 1, 1)
-colors = [x * 25 for x in y_test]
-for i, c in zip(range(10), colors):
-    data = x_test[y_test==i]
-    data = self._encoder.predict(data.reshape((len(data), 28, 28) + (1,)))
-    ax.scatter(data[:, 0], data[:, 1], c=np.aray([color for color in colors if color == i]))
-# axs.grid(True)
-plt.legend(numpoints=10)
-plt.show()
-print(data.shape)</expression-string>
+        <expression-string>cv2.imshow('abstract_images', images[0,:, :256, :])
+cv2.waitKey()
+cv2.destroyAllWindows()
+images[0,:, :256, :].shape</expression-string>
         <language-id>Python</language-id>
         <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
       </expression>
     </expressions>
     <expressions id="evaluateExpression">
       <expression>
-        <expression-string>self.sess.run([self.d_real_out], {self.X_input_tensor: x_current_batch[:25]})</expression-string>
+        <expression-string>np.concatenate((rai, gfi, rfi))</expression-string>
         <language-id>Python</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
       <expression>
-        <expression-string>0.5 * self.generate(25)[0] + 0.5</expression-string>
+        <expression-string>np.concatenate(rai, gfi, rfi)</expression-string>
         <language-id>Python</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
       <expression>
-        <expression-string>self.generate(25)[0]</expression-string>
+        <expression-string>np.concatenate(rai, gfi, rfi), axis=1</expression-string>
         <language-id>Python</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
       <expression>
-        <expression-string>self.generate(25)</expression-string>
+        <expression-string>np.unique(gfi, return_counts=True)</expression-string>
         <language-id>Python</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
       <expression>
-        <expression-string>((lr_data[0] / 127.5 - 1.) + 1 ) * 127.5</expression-string>
+        <expression-string>np.unique(gfi, return_counts=True, sort=True)</expression-string>
         <language-id>Python</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
       <expression>
-        <expression-string>(lr_data[0] / 127.5 - 1.) * 0.5 - 1</expression-string>
+        <expression-string>np.unique(gfi)</expression-string>
         <language-id>Python</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
       <expression>
-        <expression-string>(lr_data[0] / 127.5 - 1.) / 127.5 - 1</expression-string>
+        <expression-string>gfi[128][2]</expression-string>
         <language-id>Python</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
       <expression>
-        <expression-string>lr_data[0] / 127.5 - 1.</expression-string>
+        <expression-string>gfi[128][3]</expression-string>
         <language-id>Python</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
       <expression>
-        <expression-string>lr_data[0]</expression-string>
+        <expression-string>gfi[128][7]</expression-string>
         <language-id>Python</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
@@ -584,13 +516,6 @@ print(data.shape)</expression-string>
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="73">
           <caret line="111" column="6" selection-start-line="111" selection-start-column="6" selection-end-line="111" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/Anaconda3/Lib/site-packages/keras/engine/training.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="32" column="6" selection-start-line="32" selection-start-column="6" selection-end-line="32" selection-end-column="6" />
         </state>
       </provider>
     </entry>
@@ -632,38 +557,10 @@ print(data.shape)</expression-string>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Keras/DCGAN.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-161">
-          <caret line="88" lean-forward="true" selection-start-line="88" selection-end-line="88" />
-          <folding>
-            <element signature="e#0#18#0" expanded="true" />
-            <marker date="1550684476129" expanded="true" signature="433:434" ph="..." />
-            <marker date="1550684476129" expanded="true" signature="433:439" ph="..." />
-            <marker date="1550684476129" expanded="true" signature="1547:2141" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Keras/GAN.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-476">
           <caret line="56" column="43" selection-start-line="56" selection-start-column="30" selection-end-line="56" selection-end-column="43" />
-          <folding>
-            <element signature="e#0#18#0" expanded="true" />
-            <marker date="1550684404133" expanded="true" signature="253:254" ph="..." />
-            <marker date="1550684404133" expanded="true" signature="253:255" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Keras/SRGAN.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="496">
-          <caret line="236" column="21" selection-start-line="236" selection-start-column="21" selection-end-line="236" selection-end-column="21" />
-          <folding>
-            <element signature="e#0#18#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -681,25 +578,93 @@ print(data.shape)</expression-string>
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Tensorflow/BEGAN.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="51" selection-start-line="51" selection-end-line="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharmCE2018.2/system/python_stubs/1372931127/cv2/cv2/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="43">
+          <caret line="7250" column="18" selection-start-line="7250" selection-start-column="11" selection-end-line="7250" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Anaconda3/Lib/site-packages/keras/engine/training.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="478" selection-start-line="478" selection-end-line="478" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Keras/DCGAN.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1785">
+          <caret line="112" column="60" selection-start-line="98" selection-start-column="8" selection-end-line="112" selection-end-column="60" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+            <marker date="1550684476129" expanded="true" signature="433:434" ph="..." />
+            <marker date="1550684476129" expanded="true" signature="433:439" ph="..." />
+            <marker date="1550684476129" expanded="true" signature="1547:2141" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/utils.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="23" column="61" lean-forward="true" selection-start-line="23" selection-start-column="12" selection-end-line="23" selection-end-column="61" />
+        <state relative-caret-position="408">
+          <caret line="25" column="23" selection-start-line="3" selection-end-line="25" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Tensorflow/BEGAN_images/7_generated.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Tensorflow/BEGAN_images/6_generated.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Tensorflow/BEGAN_images/5_generated.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Tensorflow/BEGAN_images/1_generated.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Tensorflow/BEGAN_images/8_generated.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Keras/images/train_1.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Keras/images/1.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Keras/Pix2Pix_VGG.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1683">
+          <caret line="99" column="44" selection-start-line="99" selection-start-column="44" selection-end-line="99" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Keras/SRGAN.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="621">
+          <caret line="203" selection-start-line="203" selection-end-line="203" />
           <folding>
             <element signature="e#0#18#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Tensorflow/BEGAN.py">
+    <entry file="file://$PROJECT_DIR$/Keras/Pix2Pix.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="156">
-          <caret line="157" selection-start-line="157" selection-end-line="157" />
+        <state relative-caret-position="204">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
           <folding>
-            <element signature="e#0#18#0" expanded="true" />
-            <element signature="e#3700#4989#0" />
-            <marker date="1551184471447" expanded="true" signature="158:164" ph="..." />
-            <marker date="1551184471447" expanded="true" signature="3383:3385" ph="..." />
+            <element signature="e#0#10#0" expanded="true" />
+            <marker date="1551823917334" expanded="true" signature="3856:4106" ph="..." />
+            <marker date="1551823917334" expanded="true" signature="5126:5428" ph="..." />
           </folding>
         </state>
       </provider>

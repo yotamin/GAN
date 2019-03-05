@@ -183,10 +183,10 @@ class SRGAN:
         # Train the discriminator
         # -----------------------
 
-        # Train the discriminator to mark real data with 1's
+        # Train the discriminators to mark real data with 1's
         d_real_loss = self._discriminator.train_on_batch(hr_batch, np.ones(((len(lr_batch),) + (18, 18, 1))))
 
-        # Train the discriminator to mark generated data with 0's
+        # Train the discriminators to mark generated data with 0's
         d_generated_loss = self._discriminator.train_on_batch(self._generator.predict(lr_batch),
                                                               np.zeros(((len(lr_batch),) + (18, 18, 1))))
 
